@@ -1,0 +1,27 @@
+/* src/Filter.css */
+.filter-form {
+    max-width: 500px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .filter-button {
+    display: block;
+    width: 100%;
+    background-color: #007bff;
+    border: none;
+    padding: 0.5rem;
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    color: white;
+    transition: background-color 0.3s;
+  }
+  
+  .filter-button:hover {
+    background-color: #0056b3;
+  }
+  
